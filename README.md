@@ -1,16 +1,73 @@
-# Trilha HTML - Dio.me
-## Módulo 01 - Primeiros passos com HTML
 
-A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então. 
+# 📄 Meu Primeiro Website em HTML
+---
 
-Utilizar todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`
+## 🚀 Sobre o Projeto
+Este projeto foi desenvolvido como parte de um **Desafio de Projeto** para praticar os conceitos básicos de **HTML**.  
+O objetivo é criar um website simples com uma estrutura organizada, utilizando as principais tags aprendidas durante as aulas práticas.  
 
-Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto)
+👉 Este projeto faz parte do **Curso de Formação HTML da [Digital Innovation One (DIO)](https://www.dio.me/)**.
 
-Importante dizer que, estas tags te "seguirão" durante TODO O CURSO, por isso, é bom que esteja bem aprendidas para aproveitarem ao máximo as próximas aulas.
+---
 
-Este desafio vai fazer com que tenha dúvidas, o que é ótimo! Aos poucos você vai evoluindo na sua jornada.
+## 🛠️ Tecnologias Utilizadas
+- **HTML5** → para estruturar o conteúdo da página.  
+- **Git/GitHub** → para versionamento e hospedagem do código.
 
-Após concluído este desafio! Siga para o <strong>Módulo II - Conceitos Básicos.</strong>
+---
 
-Nos vemos lá!
+## 📂 Estrutura do Projeto
+```
+/
+├── index.html   # Página principal do site
+├── README.md    # Documentação do projeto
+└── assets/      # Pasta para imagens, estilos e outros arquivos
+```
+
+---
+
+## 📑 Funcionalidades
+- Cabeçalho com título e menu de navegação.  
+- Seções organizadas: **Sobre**, **Serviços** e **Contato**.  
+- Formulário simples para envio de informações.  
+- Rodapé com direitos autorais.  
+
+---
+
+## 📸 Demonstração
+Exemplo de estrutura básica usada no projeto:
+
+```html
+<header>
+  <h1>Bem-vindo ao meu Website!</h1>
+  <nav>
+    <ul>
+      <li><a href="#sobre">Sobre</a></li>
+      <li><a href="#servicos">Serviços</a></li>
+      <li><a href="#contato">Contato</a></li>
+    </ul>
+  </nav>
+</header>
+```
+
+---
+
+## 📌 Como Executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. Abra o arquivo `index.html` em qualquer navegador.  
+3. Explore e personalize o conteúdo conforme desejar.  
+
+---
+
+## 🎯 Objetivo de Aprendizado
+- Praticar a criação de páginas web com HTML.  
+- Entender a importância da semântica e da organização do código.  
+- Preparar a base para evoluir para **CSS** e **JavaScript**.  
+
+---
+
+## 👩‍💻 Autor
+Projeto desenvolvido por **Débora Almeida** durante o **Curso de Formação HTML da DIO**.  
